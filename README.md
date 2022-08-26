@@ -14,10 +14,11 @@
   />
 </p>
 
-- 🌱 I’m currently learning **React Native** - 👯 I’m looking to collaborate on
-[KS Devware](https://github.com/ksdevware) - 👨‍💻 All of my projects are available
-at [https://nayan-islam.netlify.app](https://nayan-islam.netlify.app) - 💬 Ask
-me about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
+- 🌱 I’m currently learning **React Native** - 👯 I’m looking to as a Junior
+Fronted Developer on [KS Devware](https://github.com/ksdevware) - 👨‍💻 All of my
+projects are available at
+[https://nayan-islam.netlify.app](https://nayan-islam.netlify.app) - 💬 Ask me
+about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
 **nayannk103@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -221,7 +222,7 @@ me about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
 </p>
 
 <p>
-  &nbsp;<img
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=codernayan&show_icons=true&locale=en"
     alt="codernayan"
