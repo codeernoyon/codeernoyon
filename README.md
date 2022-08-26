@@ -222,6 +222,7 @@ about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
 </p>
 
 <p>
+  &nbsp;
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=codernayan&show_icons=true&locale=en"
