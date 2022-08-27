@@ -2,15 +2,16 @@
 <h3 align="center">A passionate Frontend and App developer from Bangladesh.</h3>
 <img
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-  alt="coder"
-  width="350"
+  alt="codeernoyon"
+  width="320"
   align="right"
 />
 
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=codernayan&label=Profile%20views&color=0e75b6&style=flat"
-    alt="codernayan"
+    alt="codeernoyon"
+    style="border-radius: 15px"
   />
 </p>
 
@@ -27,7 +28,7 @@ about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="nayan-islam-095342237"
+      alt="codeernoyon-095342237"
       height="20"
       width="30"
   /></a>
@@ -35,7 +36,7 @@ about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="mdmajadulislam.nayan"
+      alt="codeernoyon.nayan"
       height="20"
       width="30"
   /></a>
@@ -43,7 +44,7 @@ about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="nayan_.islam"
+      alt="codeernoyon"
       height="20"
       width="30"
   /></a>
@@ -54,7 +55,7 @@ about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
+      alt="codeernoyon"
       width="30"
       height="30"
     />
@@ -216,7 +217,7 @@ about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=codernayan&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=codeernoyon&show_icons=true&locale=en&layout=compact"
     alt="codernayan"
   />
 </p>
@@ -224,7 +225,7 @@ about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=codernayan&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=codeernoyon&show_icons=true&locale=en"
     alt="codernayan"
   />
 </p>
@@ -232,7 +233,7 @@ about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=codernayan&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=codeernoyon&"
     alt="codernayan"
   />
 </p>
