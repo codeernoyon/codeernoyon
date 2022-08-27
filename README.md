@@ -7,7 +7,7 @@
   align="right"
 />
 
-<p align="left" style="border-radius: 50px; overflow: hidden">
+<p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=codernayan&label=Profile%20views&color=0e75b6&style=flat"
     alt="codeernoyon"
