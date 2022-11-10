@@ -222,11 +222,6 @@ about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
     src="https://github-readme-stats.vercel.app/api/top-langs?username=codeernoyon&show_icons=true&locale=en&layout=compact"
     alt="codernayan"
   />
-   <img
-    align="right"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=codeernoyon&"
-    alt="codernayan"
-  />
 </p>
 
 <p>
@@ -242,5 +237,11 @@ about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=codeernoyon&"
     alt="codernayan"
+  />
+</p>
+<p>
+  <img 
+     src="https://activity-graph.herokuapp.com/graph?username=codernayan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" 
+     alt="codernayan" 
   />
 </p>
