@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **React Native** - 👯 I’m looking to as a Junior
 Fronted Developer on [KS Devware](https://github.com/ksdevware) - 👨‍💻 All of my
 projects are available at
-[https://nayan-islam.netlify.app](https://nayan-islam.netlify.app) - 💬 Ask me
+[https://nayan-islam.netlify.app](https://noyon-islam.netlify.app/) - 💬 Ask me
 about **HTML Css3 React.js Node.js React-Native** - 📫 How to reach me
 **nayannk103@gmail.com**
 
