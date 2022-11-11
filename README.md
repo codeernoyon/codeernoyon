@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noyon Islam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Noyon Islam</h1>
 <h3 align="center">A passionate Frontend and App developer from Bangladesh.</h3>
 <img
   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
